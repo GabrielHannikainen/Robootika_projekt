@@ -10,7 +10,7 @@ Ehitasin kahe mootoriga auto, mida juhin FlySky puldi abil. Auto kasutab Arduino
 
 ## Skeem
 
-![Auto skeem](skeem.png)
+![Auto skeem](skeem1.png)
 
 ## Komponendid
 
