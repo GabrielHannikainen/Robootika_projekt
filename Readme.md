@@ -108,5 +108,7 @@ Kolmas probleem oli toide. Selgus, et kõik seadmed pidid kasutama ühist GND ü
 Lõpptulemusena valmis puldiga juhitav auto, mis liigub edasi, tagasi ning pöörab vastavalt puldi käskudele.
 
 ## Video ja pilt
+https://www.youtube.com/shorts/VBpmlhnt-Bc
+!(skeem.png)
 
 
