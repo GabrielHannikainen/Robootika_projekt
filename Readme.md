@@ -109,6 +109,6 @@ Lõpptulemusena valmis puldiga juhitav auto, mis liigub edasi, tagasi ning pöö
 
 ## Video ja pilt
 https://www.youtube.com/shorts/VBpmlhnt-Bc
-!(skeem.png)
+![AutostPilt](skeem.png)
 
 
